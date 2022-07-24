@@ -2,7 +2,6 @@
 dependencies:
   cupertino_icons: ^1.0.2
   get: ^4.6.5
-  logger: ^1.1.0
   flutter:
     sdk: flutter
 description: A new Flutter project.
